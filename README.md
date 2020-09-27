@@ -1,2 +1,2 @@
 # The_First_Lab
-Contributors:
+Contributors: Sapbyiev Maksym, Andreichenko Kyrylo
